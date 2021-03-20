@@ -4,7 +4,7 @@
 
 <b>Atividade colaborativa.</b><br>
 TeamSix (Equipe 23 - ADS/SI 2º período (FICR 2021)):<br>
-Envolvidos: Augusto, Gedson e Sara.
+Envolvidos: Augusto Almeida, Gedson Monteiro e Sara Moraes.
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
