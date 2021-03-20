@@ -3,7 +3,7 @@
 <b>Projeto de uma API NodeJs com boas práticas REST, banco de dados SQL e ORM Sequelize.</b>
 
 <b>Atividade colaborativa.</b><br>
-TeamSix (Equipe 23 - 2º período):<br>
+TeamSix (Equipe 23 - ADS/SI 2º período (FICR 2021)):<br>
 Envolvidos: Augusto, Gedson e Sara.
 
 ## Licença
