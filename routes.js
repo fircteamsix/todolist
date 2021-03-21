@@ -10,6 +10,7 @@ routes.put('/condicao', CondicaoController.update); //UPDATE
 routes.delete('/condicao/:id', CondicaoController.delete); //DELETE
 
 routes.get('/tarefas', TarefasController.get); // READ
+routes.get('/tarefas/:id', TarefasController.consulta)
 routes.post('/tarefas', TarefasController.store); //CREATE
 routes.put('/tarefas', TarefasController.update); //UPDATE
 routes.delete('/tarefas/:id', TarefasController.delete); //DELETE
